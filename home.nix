@@ -14,7 +14,7 @@
   	neovim
   	yazi
   	helix
-  	xozide
+  	zoxide
   ];
 
   programs.zsh = {
