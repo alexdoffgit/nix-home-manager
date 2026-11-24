@@ -82,10 +82,6 @@
     enableZshIntegration = true;
   };
 
-  home-manager.users.student = {
-  	program.xozide.enable = true;
-  };
-
   # Let Home Manager manage itself
   programs.home-manager.enable = true;      	
 }
