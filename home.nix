@@ -17,6 +17,11 @@
   	zoxide
   ];
 
+  home.sessionVariables = {
+    EDITOR = "hx";
+    VISUAL = "hx";
+  };
+
   programs.zsh = {
     enable = true;
 
